@@ -1,5 +1,9 @@
 ### Hello there! {gifs/wave} I'm Danny, thanks for jumping into my Github Profile
 
+
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dannydemarco.com)
+
+
 ## I am a developer based in the UK 
 - I am currently working on my MSc Thesis - A bespoke full-stack web app built using Python, Django and Bootstrap
 - I am currently learning sorting algorithms!
@@ -8,10 +12,11 @@
 
 ### Connect with me!
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:10px;" />][https://linkedin.com/in/danny-demarco]
-
-          
-
+[![website](./img/globe-light.svg)](https://dannydemarco.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://dannydemarco.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/danny-demarco#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/danny-demarco#gh-dark-mode-only)
 
 
 ### Languages and Tools I like to use:
