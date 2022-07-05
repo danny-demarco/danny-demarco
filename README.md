@@ -10,7 +10,7 @@
 - :mortar_board: BEng Civil Engineering
 - :bar_chart: I am currently learning sorting algorithms!
 - :mega: I am planning to start working as a full-time dev within the next few months
-- :nut_and_bolt: Fun fact: I love to build and fix stuff! Campervans, house refurbs, websites! I was born to build things
+- :nut_and_bolt: Fun fact: I love to build and fix stuff! Campervans, house refurbs, websites! I was born for it
 
 ### Connect with me!
 
@@ -25,7 +25,7 @@
 ### Languages and Tools I like to use:
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="padding-right:10px;background-color:white;" />
 <img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
