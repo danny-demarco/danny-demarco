@@ -12,11 +12,7 @@
 
 ### Connect with me!
 
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://dannydemarco.com#gh-light-mode-only)
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://dannydemarco.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/danny-demarco#gh-light-mode-only)
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/danny-demarco#gh-dark-mode-only)
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][https://linkedin.com/in/danny-demarco]
 
 
 ### Languages and Tools I like to use:
