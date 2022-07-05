@@ -12,6 +12,8 @@
 - :mega: I am planning to start working as a full-time dev within the next few months
 - :nut_and_bolt: Fun fact: I love to build and fix stuff! Campervans, house refurbs, websites! I was born for it
 
+---
+
 ### Connect with me!
 
 [<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
@@ -21,6 +23,8 @@
 :earth_americas: [dannydemarco.com][linkedin]
 
 <br>
+
+---
 
 ### Languages and Tools I like to use:
 
@@ -41,6 +45,8 @@
 <img align="left" alt="Sass" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 
 <br><br>
+
+---
 
 ### My Github Stats
 
