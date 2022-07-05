@@ -8,10 +8,13 @@
 
 ### Connect with me!
 
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  style="padding-right:10px;" />][
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/danny-demarco#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/danny-demarco#gh-dark-mode-only)
-&nbsp;&nbsp;
+&nbsp;&nbsp;]
+          
+
 
 
 ### Languages and Tools I like to use:
