@@ -5,7 +5,8 @@
 
 
 ## I am a developer based in the UK 
-- I am currently working on my MSc Thesis - A bespoke full-stack web app built using Python, Django and Bootstrap
+- I am currently working on my MSc Thesis - A bespoke full-stack web app built using Python, Django and Bootstrap (Ask me for a guest login to check it out!)
+- BEng Civil Engineering
 - I am currently learning sorting algorithms!
 - I am planning to start working as a full-time dev within the next few months
 - Fun fact: I love to build stuff! Campervans, house refurbs, websites! Born to build things 
@@ -13,12 +14,12 @@
 ### Connect with me!
 
 [<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
-<br>
-<br>
+
+<br><br>
+
 :earth_americas: [dannydemarco.com][linkedin]
 
 <br>
-
 
 ### Languages and Tools I like to use:
 
@@ -36,14 +37,11 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 
-
-
-<br>
-<br>
-<br>
+<br><br>
 
 ### My Github Stats
 
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-demarco&layout=compact)](https://github.com/danny-demarco/github-readme-stats)
 
