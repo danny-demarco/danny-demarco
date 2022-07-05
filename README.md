@@ -1,4 +1,4 @@
-### Hello there! I'm Danny, thanks for jumping into my Github Profile
+### Hello there! :wave: I'm Danny, thanks for jumping into my Github Profile
 
 
 [![Website](https://img.shields.io/website?label=dannydemarco.com&style=for-the-badge&url=https%3A%2F%2Fdannydemarco.com)](https://dannydemarco.com)
@@ -9,7 +9,7 @@
 - BEng Civil Engineering
 - I am currently learning sorting algorithms!
 - I am planning to start working as a full-time dev within the next few months
-- Fun fact: I love to build stuff! Campervans, house refurbs, websites! Born to build things 
+- Fun fact: I love to build stuff! Campervans, house refurbs, websites! I was born to build stuff
 
 ### Connect with me!
 
