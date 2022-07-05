@@ -38,7 +38,9 @@
 
 
 <br>
-<details>
+<br>
+<br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-demarco&layout=compact)](https://github.com/danny-demarco/github-readme-stats)
 
@@ -46,7 +48,7 @@
 
 ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=danny-demarco&count_private=true&show_icons=true)
 
-</details>
+
 
 
 [website]: https://dannydemarco.com
