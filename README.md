@@ -16,7 +16,7 @@
 <br>
 <br>
 &nbsp;&nbsp;
-[dannydemarco.com][linkedin]
+:earth_americas: [dannydemarco.com][linkedin]
 
 <br>
 
