@@ -15,7 +15,6 @@
 [<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 <br>
 <br>
-&nbsp;&nbsp;
 :earth_americas: [dannydemarco.com][linkedin]
 
 <br>
