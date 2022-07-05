@@ -38,7 +38,9 @@
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 
 
+<br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-demarco)](https://github.com/danny-demarco/github-readme-stats)
 
 [website]: https://dannydemarco.com
 [linkedin]: https://linkedin.com/in/danny-demarco
