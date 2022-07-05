@@ -5,11 +5,12 @@
 
 
 ## I am a developer based in the UK 
-- I am currently working on my MSc Thesis - A bespoke full-stack web app built using Python, Django and Bootstrap (Ask me for a guest login to check it out!)
-- BEng Civil Engineering
-- I am currently learning sorting algorithms!
-- I am planning to start working as a full-time dev within the next few months
-- Fun fact: I love to build stuff! Campervans, house refurbs, websites! I was born to build stuff
+- :computer: I am currently working on my MSc Thesis - A bespoke full-stack web app built using Python, Django and Bootstrap (Ask me for a guest login to check it out!)
+- :trophy: Awarded Future Global Leaders Scholarship to study at University of Bath
+- :mortar_board: BEng Civil Engineering
+- :bar_chart: I am currently learning sorting algorithms!
+- :mega: I am planning to start working as a full-time dev within the next few months
+- :nut_and_bolt: Fun fact: I love to build and fix stuff! Campervans, house refurbs, websites! I was born to build things
 
 ### Connect with me!
 
