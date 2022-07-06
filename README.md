@@ -6,7 +6,7 @@
 
 ## I am a developer based in the UK 
 - :computer: I am currently working on my MSc Thesis - A bespoke full-stack web app built using Python, Django and Bootstrap (Ask me for a guest login to check it out!)
-- :trophy: Awarded Future Global Leaders Scholarship to study at University of Bath
+- :trophy: Awarded Future Global Leaders Scholarship to study at the University of Bath
 - :mortar_board: BEng Civil Engineering
 - :bar_chart: I am currently learning sorting algorithms!
 - :mega: I am planning to start working as a full-time dev within the next few months
