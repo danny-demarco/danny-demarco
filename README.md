@@ -9,7 +9,7 @@
 - :heavy_check_mark: MSc Computer Science from the University of Bath
 - :trophy: Awarded Future Global Leaders Scholarship to study at the University of Bath
 - :mortar_board: BEng Civil Engineering from the  University of Leeds
-- :bar_chart: I am currently learning JavaScript and React!
+- :bar_chart: I am currently learning to work API's using the Django REST framework!
 - :mega: I am building a revolutionary teaching tool for the construction industry in my spare time
 - :nut_and_bolt: Fun fact: I love to build and fix stuff! Campervans, house refurbs, websites! I was born for it
 
