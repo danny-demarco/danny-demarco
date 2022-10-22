@@ -30,11 +30,11 @@
 ### Languages and Tools I like to use:
 
 <img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="padding-right:10px;box-shadow:2px 2px white;" />
+<img align="left" alt="Django" width="32x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="padding-right:10px;box-shadow:2px 2px white;" />
 <img align="left" alt="SQLite" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Postgres" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px; padding-bottom: 30px;" />
+<img align="left" alt="Postgres" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px" />
 <img align="left" alt="Bootstrap" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Pycharm" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" style="padding-right:10px; padding-bottom: 15px;" />
+<img align="left" alt="Pycharm" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
