@@ -4,12 +4,13 @@
 [![Website](https://img.shields.io/website?label=dannydemarco.com&style=for-the-badge&url=https%3A%2F%2Fdannydemarco.com)](https://dannydemarco.com)
 
 
-## I am a developer based in the UK 
-- :computer: I am currently working on my MSc Thesis - A bespoke full-stack web app built using Python, Django and Bootstrap
+## I am a Software Developer based in the UK 
+- :computer: I am currently working full time as a Junior Full Stack Software Developer - I mostly work with Python and Django
+- :heavy_check_mark: MSc Computer Science from the University of Bath
 - :trophy: Awarded Future Global Leaders Scholarship to study at the University of Bath
-- :mortar_board: BEng Civil Engineering
-- :bar_chart: I am currently learning sorting algorithms!
-- :mega: I am planning to start working as a full-time dev within the next few months
+- :mortar_board: BEng Civil Engineering from the  University of Leeds
+- :bar_chart: I am currently learning JavaScript and React!
+- :mega: I am building a revolutionary teaching tool for the construction industry in my spare time
 - :nut_and_bolt: Fun fact: I love to build and fix stuff! Campervans, house refurbs, websites! I was born for it
 
 ---
