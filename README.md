@@ -5,13 +5,13 @@
 
 
 ## I am a Software Developer based in the UK 
-- :computer: I am currently working full time as a Junior Full Stack Software Developer - I mostly work with Python and Django
+- :computer: I am currently working full time as a Full Stack Software Developer - I mostly work with Python, Django, and JavaScript
 - :heavy_check_mark: MSc Computer Science from the University of Bath
 - :trophy: Awarded Future Global Leaders Scholarship to study at the University of Bath
 - :mortar_board: BEng Civil Engineering from the  University of Leeds
-- :bar_chart: I am currently learning to work with API's using the Django REST framework!
+- :bar_chart: I am currently learning the Angular framework for mobile application development!
 - :mega: I am building a revolutionary teaching tool for the construction industry in my spare time
-- :nut_and_bolt: Fun fact: I love to build and fix stuff! Campervans, house refurbs, websites! I was born for it
+- :nut_and_bolt: Fun fact: I love to build and fix stuff! Campervans, house refurbs, websites! I was born for it.
 
 ---
 
